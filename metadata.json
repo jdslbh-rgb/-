@@ -1,0 +1,5 @@
+{
+  "name": "Daily Reflection Journal",
+  "description": "A daily journal to organize tasks and reflect on your day with a meditation section. Users can log daily tasks with titles, scopes, and links, and review entries from past days.",
+  "requestFramePermissions": []
+}
