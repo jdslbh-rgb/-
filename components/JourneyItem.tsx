@@ -48,7 +48,7 @@ const JourneyItemComponent: React.FC<JourneyItemComponentProps> = ({ item, onUpd
             </div>
             <button
                 onClick={() => onDelete(item.id)}
-                className="text-slate-400 hover:text-red-500 transition-colors sm:ml-auto flex-shrink-0 self-center"
+                className="text-slate-400 hover:text-red-500 transition-colors sm:ml-auto flex-shrink-0 self-end sm:self-center"
                 aria-label="Delete journey item"
             >
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
